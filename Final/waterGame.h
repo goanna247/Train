@@ -39,31 +39,31 @@ void printTrain(int spaces, int train) {
   t2.trainL3 = "< oo    OO   o   o\n";
   
   /**code 2 - red*/
-  t3.trainL0 = "\033[1;31m      ____\n";
+  t3.trainL0 = "\033[1;31m        ____\n";
   t3.trainL1 = "  ][_n_|OO[ ====_\n";
   t3.trainL2 = " (_____|__|_[_____].\n\033[0m";
   t3.trainL3 = "< oo    OO   o   o\n";
 
   /**code 3 - magenta*/
-  t4.trainL0 = "\033[1;35m      ____\n";
+  t4.trainL0 = "\033[1;35m        ____\n";
   t4.trainL1 = "  ][_n_|OO[ ====_\n";
   t4.trainL2 = " (_____|__|_[_____].\n\033[0m";
   t4.trainL3 = "< oo    OO   o   o\n";
 
   /**code 4 - green */
-  t5.trainL0 = "\033[1;32m      ____\n";
+  t5.trainL0 = "\033[1;32m        ____\n";
   t5.trainL1 = "  ][_n_|OO[ ====_\n";
   t5.trainL2 = " (_____|__|_[_____].\n\033[0m";
   t5.trainL3 = "< oo    OO   o   o\n";
 
   /**code 5 - blue*/
-  t6.trainL0 = "\033[1;34m      ____\n";
+  t6.trainL0 = "\033[1;34m       ____\n";
   t6.trainL1 = "  ][_n_|OO[ ====_\n";
   t6.trainL2 = " (_____|__|_[_____].\n\033[0m";
   t6.trainL3 = "< oo    OO   o   o\n";
 
   /**code 6 - cyan*/
-  t7.trainL0 = "\033[1;36m      ____\n";
+  t7.trainL0 = "\033[1;36m       ____\n";
   t7.trainL1 = "  ][_n_|OO[ ====_\n";
   t7.trainL2 = " (_____|__|_[_____].\n\033[0m";
   t7.trainL3 = "< oo    OO   o   o\n";
